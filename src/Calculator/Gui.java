@@ -52,16 +52,16 @@ public class Gui extends JFrame{
 		seven.setPreferredSize(dim);
 		eight.setPreferredSize(dim);
 		nine.setPreferredSize(dim);
-		zero.setPreferredSize(new Dimension(225, 25));
-		decimal.setPreferredSize(new Dimension(113, 25));
-		negative.setPreferredSize(new Dimension(113, 25));
-		add.setPreferredSize(new Dimension(113, 25));
-		sub.setPreferredSize(new Dimension(113, 25));
-		multiply.setPreferredSize(new Dimension(113, 25));
-		div.setPreferredSize(new Dimension(113, 25));
-		equals.setPreferredSize(new Dimension(225, 25));
-		clear.setPreferredSize(new Dimension(225, 25));
-		back.setPreferredSize(new Dimension(225, 25));
+		zero.setPreferredSize(new Dimension(236, 25));
+		decimal.setPreferredSize(new Dimension(116, 25));
+		negative.setPreferredSize(new Dimension(116, 25));
+		add.setPreferredSize(new Dimension(116, 25));
+		sub.setPreferredSize(new Dimension(116, 25));
+		multiply.setPreferredSize(new Dimension(116, 25));
+		div.setPreferredSize(new Dimension(116, 25));
+		equals.setPreferredSize(new Dimension(236, 25));
+		clear.setPreferredSize(new Dimension(236, 25));
+		back.setPreferredSize(new Dimension(236, 25));
 		
 		Numbers n = new Numbers();
 		Calc c = new Calc();
